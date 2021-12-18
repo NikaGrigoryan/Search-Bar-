@@ -7,6 +7,7 @@ function App() {
  
   return (
     <div className="App">
+      <p>Hi</p>
      <SearchBar placeholder="Փնտրել" data = {Todos} />
     </div>
   );
